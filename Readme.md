@@ -20,9 +20,11 @@ The point for this application is so that I can try and have fun in trying to cr
 ## Install
 These are the steps to setup your local environment to run this application.
 
+To use this application, you would only need to have the link and run the program.
 
 ## Usage
 
 These are the steps to use the application or interact with it.
+
 
 ### Any optional sections
