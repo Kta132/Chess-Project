@@ -29,10 +29,3 @@ These are the steps to use the application or interact with it.
 So far, there isn't much to do on this program besides watch the program draw the chess board but I'm planning on adding the pieces to it if I can.
 
 ### Any optional sections
-
-## Test Plan
-
-To test the project:
-
-1.  Run the test
-2.  Check the results
